@@ -4,15 +4,15 @@ const user = {
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: "https://github.com/BookmDan",
+    linkedin: "https://www.linkedin.com/in/-danieloh-/",
   },
   projects: [
     {
       id: 1,
-      name: "Reciplease",
-      about: "A recipe tracking app",
-      technologies: ["Rails", "Bootstrap CSS"],
+      name: "EmoteShiba",
+      about: "A 3x3 grid of shiba images that you can double click to like, and highlight when hovering over images",
+      technologies: ["JS", "HTML", "CSS"],
     },
     {
       id: 2,
