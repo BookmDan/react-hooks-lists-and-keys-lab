@@ -1,7 +1,7 @@
 import React from "react";
 
 function NavBar() {
-  const links = ["home", "about", "projects"];
+  const links = ["home", "about", "projects", "blogs"];
 
   return <nav>
     {links.map((link, index) => (
